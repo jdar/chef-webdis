@@ -1,0 +1,8 @@
+{
+	"redis": {
+		"version": "2.6.14"
+	},
+	"run_list":[
+		"recipe[redis]"
+	]
+}
